@@ -1,0 +1,9 @@
+dimension,model,explicitness,mean_score,sd_score,n
+Affective,Olmo2,Explicit,5.375,1.371289459818275,24
+Affective,Olmo2,Implicit,4.166666666666667,1.3344650993747553,24
+Affective,Olmo3,Explicit,7.21875,1.3659534415007806,24
+Affective,Olmo3,Implicit,6.260416666666667,1.2884924766248504,24
+Cognitive,Olmo2,Explicit,6.3125,1.18928641374273,24
+Cognitive,Olmo2,Implicit,5.447916666666667,1.281089818548413,24
+Cognitive,Olmo3,Explicit,7.3125,1.0301171313728479,24
+Cognitive,Olmo3,Implicit,6.375,1.0054200938997546,24
